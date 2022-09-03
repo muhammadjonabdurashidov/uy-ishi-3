@@ -1,0 +1,30 @@
+.width-select {
+  width: 270px;
+  outline: none;
+  border: none;
+}
+
+
+.box  {
+ align-items: center;
+  border: 1px solid dimgray;
+  border-radius: 10px;
+}
+
+.button {
+  height: 45px;
+}
+
+.text {
+  margin-right: 700px !important;
+}
+
+.textone {
+  width: 450px;
+}
+
+.boxs {
+  position: relative;
+  right: -400px;
+  top: 50px;
+}
